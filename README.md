@@ -20,5 +20,5 @@ conda activate visual
 
 Now start server by running
 
-python app.py
+python main.py
 

@@ -13,6 +13,8 @@ conda install -c anaconda pyaudio
 pip install -r requirements.txt
 
 
+Donload yolv3 weights from https://pjreddie.com/darknet/yolo/
+
 How to run the project
 Go to the project directory and make sure conda environment is active. If not then you can activate by running below command
 
